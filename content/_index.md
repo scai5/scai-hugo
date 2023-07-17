@@ -214,9 +214,8 @@ sections:
       email: shirley.cai@emory.edu
     #  phone: 888 888 88 88
     #  appointment_url: 'https://calendly.com'
-      directions: R. Randall Rollins (R433)
       address:
-        street: |2-
+        street: >-
           R. Randall Rollins (R433)
           1516 Clifton Road
         city: Atlanta
@@ -224,6 +223,7 @@ sections:
         postcode: '30322'
         country: United States
         country_code: US
+      #directions: R. Randall Rollins (R433)
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
