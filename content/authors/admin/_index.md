@@ -19,17 +19,16 @@ role: PhD Student in Economics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Emory University
-    url: https://www.emory.edu/home/index.html
+    url: https://economics.emory.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied microeconomics and health economics.
+bio: My research interests include health economics and applied microeconomics.
 
 # Interests to show in About widget
 interests:
   - Health Economics 
   - Labor Economics
   - Applied Microeconomics
-  - Industrial Organization
 
 # Education to show in About widget
 education:
@@ -81,5 +80,5 @@ email: 'shirley.cai@emory.edu'
 highlight_name: true
 ---
 
-Shirley Cai is a second-year Economics PhD student at Emory University. She earned her B.A. in Economics and M.S. in Statistics from Stanford University in 2022. She has worked as a research assistant at the Shorenstein Asia-Pacific Research Center at Stanford. Her research interests are in health and labor economics.
+Shirley Cai is a third-year Economics PhD student at Emory University. She earned her B.A. in Economics and M.S. in Statistics from Stanford University in 2022. She has worked as a research assistant at the Shorenstein Asia-Pacific Research Center at Stanford. Her research interests are in health and labor economics.
 {style="text-align: justify;"}
