@@ -71,7 +71,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_20250614_2.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'shirley.cai@emory.edu'
@@ -80,5 +80,5 @@ email: 'shirley.cai@emory.edu'
 highlight_name: true
 ---
 
-Shirley Cai is a third-year Economics PhD student at Emory University. She earned her B.A. in Economics and M.S. in Statistics from Stanford University in 2022. She has worked as a research assistant at the Shorenstein Asia-Pacific Research Center at Stanford. Her research interests are in health and labor economics.
+Shirley Cai is a fourth-year Economics PhD student at Emory University. She earned her B.A. in Economics and M.S. in Statistics from Stanford University in 2022. She has worked as a research assistant at the Shorenstein Asia-Pacific Research Center at Stanford. Her research interests are in health and labor economics.
 {style="text-align: justify;"}
